@@ -29,3 +29,10 @@ This project identifies whether a news article is **real or fake** based on its 
 - **Pandas & NumPy** – For data manipulation and analysis.
 - **Matplotlib & Seaborn** – For data visualization.
 - **Jupyter Notebook** – Interactive development environment.
+
+---
+
+## 📂 Dataset
+
+Due to size limitations, the dataset is hosted externally.  
+You can download it here: [Download dataset](https://drive.google.com/drive/folders/1_YBPgv6Q4WiX9zztCRqKbOktGn6FHyG9?usp=sharing)
